@@ -1,4 +1,4 @@
-#  
+#  Bear for macOS advanced Automation: markdown support & collaboration is the best Bear for macOS automation, featuring markdown support and collaboration. Safe, efficient, and
 
 
 
